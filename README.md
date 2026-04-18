@@ -1,5 +1,5 @@
 # Antenna Models
-*Antenna simulation models used in my researches and projects.*
+*Antenna simulation models used in my research project.*
 
 Designed and simulated by **CST 2024 (mostly) and 2025**
 
@@ -24,7 +24,7 @@ Designed and simulated by **CST 2024 (mostly) and 2025**
 - [Cap-Fed sub RO4350B 2x1 subArray](cap-fed-sub-ro4350b-2x1-subarray)
 - [Cap-Fed Parallel Contour Matching sub RO4350B](#cap-fed-parallel-contour-matching-sub-ro4350b)
 - [Cap-Fed Chebyshev Filter N2 Matching sub RO4350B](#cap-fed-chebyshev-filter-n2-matching-sub-ro4350b)
-- 
+  
 ### Useful TS-files
 - [Ideal Circulator](ideal-circulator)
 - [Ideal Quadrature Hybrid Coupler](ideal-quadrature-hybrid-coupler)
@@ -77,9 +77,38 @@ Designed and simulated by **CST 2024 (mostly) and 2025**
 - **Figures:**
   ![Screenshot](...)
 
-#### 1.575 GHz Back-Fed Circularly-Polarized Patch Antenna on FR4
-- **Design:** 1.575 GHz Back-Fed Circularly-Polarized Patch Antenna on FR4
-- **Material:** 2 mm FR4 with 1 oz copper
-- **File:** `Patch Antenna/1.575G_CircularlyPolarizedPatch_BackFed_FR4.cst`
+
+
+### Antenna Array (2.09 GHz, Unit Cell, 2 Probes, PEC, with Fence)
+
+
+
+#### Stacked Cap-Fed bottom_sub RO4350B top_sub RO4830
+- **File:** `Antenna Array/Array_stackedRoundPatch_capFeed_withFence_2024.cst`
+- **Figures:**
+  ![Screenshot](...)
+
+#### Stacked noCap-Fed bottom_sub RO4835T top_sub CuClad233
+- **File:** `Antenna Array/Array_stackedRoundPatch_noCap_withFence_2024.cst`
+- **Figures:**
+  ![Screenshot](...)
+
+#### Cap-Fed sub RO4350B 3x3 subArray
+- **File:** `Antenna Array/Array_RoundPatchEps366_capFeed_withFence_2024.cst`
+- **Figures:**
+  ![Screenshot](...)
+
+#### Cap-Fed sub RO4350B 2x1 subArray
+- **File:** `Antenna Array/Array_2x1_RoundPatchEps366_capFeed_withFence_2024.cst`
+- **Figures:**
+  ![Screenshot](...)
+
+#### Cap-Fed Parallel Contour Matching sub RO4350B
+- **File:** `Antenna Array/Array_RoundPatchEps366_capFeed_withFence_paralContourMatching_2024.cst`
+- **Figures:**
+  ![Screenshot](...)
+
+#### Cap-Fed Chebyshev Filter N2 Matching sub RO4350B
+- **File:** `Antenna Array/Array_RoundPatchEps366_capFeed_withFence_chebyshevMatchingN2_2024.cst`
 - **Figures:**
   ![Screenshot](...)
