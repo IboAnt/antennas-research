@@ -40,7 +40,7 @@ Designed and simulated by **CST 2024 (mostly) and 2025**
 #### Aperture-Fed 2 slots with T-shape Slots Geometry
 - **File:** `Round Patch Antenna/roundPatchEps1_apertureFeed_Tshape_msLines_2024.cst`
 - **Figures:**
-  ![Screenshot](...)
+  ![Screenshot](images/T-shape.png)
 
 #### Aperture-Fed 2 slots with Г-shape Slots Geometry
 - **File:** `Round Patch Antenna/roundPatchEps1_apertureFeed_Г-shape_msLines_2024.cst`
