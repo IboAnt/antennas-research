@@ -25,12 +25,6 @@ Designed and simulated by **CST 2024 (mostly) and 2025**
 - [Cap-Fed Parallel Contour Matching + Quadrature Hybrid Coupler sub RO4350B](#cap-fed-parallel-contour-matching--quadrature-hybrid-coupler-sub-ro4350b)
 - [Cap-Fed Chebyshev Filter N2 Matching + Quadrature Hybrid Coupler sub RO4350B](#cap-fed-chebyshev-filter-n2-matching--quadrature-hybrid-coupler-sub-ro4350b)
   
-### Useful TS-files
-- [Ideal Circulator](#ideal-circulator)
-- [Ideal Quadrature Hybrid Coupler](#ideal-quadrature-hybrid-coupler)
-- [Ideal Quadrature Hybrid Coupler + Chebyshev Filter N2](#ideal-quadrature-hybrid-coupler--chebyshev-filter-n2)
-- [Ideal Quadrature Hybrid Coupler + Parallel Contour](#ideal-quadrature-hybrid-coupler--parallel-contour)
-
 ---
 
 ## Detailed Description
@@ -80,7 +74,6 @@ Designed and simulated by **CST 2024 (mostly) and 2025**
 ---
 
 ### Antenna Array (2.09 GHz, Unit Cell, 2 Probes, PEC, with Fence)
-
 
 
 #### Stacked Cap-Fed bottom_sub RO4350B top_sub RO4830
