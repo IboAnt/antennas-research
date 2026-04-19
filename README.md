@@ -22,8 +22,8 @@ Designed and simulated by **CST 2024 (mostly) and 2025**
 - [Stacked noCap-Fed bottom_sub RO4835T top_sub CuClad233](#stacked-nocap-fed-bottom_sub-ro4835t-top_sub-cuclad233)
 - [Cap-Fed sub RO4350B 3x3 subArray](cap-fed-sub-ro4350b-3x3-subarray)
 - [Cap-Fed sub RO4350B 2x1 subArray](cap-fed-sub-ro4350b-2x1-subarray)
-- [Cap-Fed Parallel Contour Matching sub RO4350B](#cap-fed-parallel-contour-matching-sub-ro4350b)
-- [Cap-Fed Chebyshev Filter N2 Matching sub RO4350B](#cap-fed-chebyshev-filter-n2-matching-sub-ro4350b)
+- [Cap-Fed Parallel Contour Matching + Quadrature Hybrid Coupler sub RO4350B](#cap-fed-parallel-contour-matching-+-circulator-and-quadrature-hybrid-coupler-sub-ro4350b)
+- [Cap-Fed Chebyshev Filter N2 Matching + Quadrature Hybrid Coupler sub RO4350B](#cap-fed-chebyshev-filter-n2-matching-+-circulator-and-quadrature-hybrid-coupler-sub-ro4350b)
   
 ### Useful TS-files
 - [Ideal Circulator](ideal-circulator)
@@ -40,42 +40,42 @@ Designed and simulated by **CST 2024 (mostly) and 2025**
 #### Aperture-Fed 2 slots with T-shape Slots Geometry
 - **File:** `Round Patch Antenna/roundPatchEps1_apertureFeed_Tshape_msLines_2024.cst`
 - **Figures:**
-  ![Screenshot](images/T-shape.png)
+  <img src="images/T-shape.png" width="400">
 
 #### Aperture-Fed 2 slots with Г-shape Slots Geometry
 - **File:** `Round Patch Antenna/roundPatchEps1_apertureFeed_Г-shape_msLines_2024.cst`
 - **Figures:**
-  ![Screenshot](...)
+  <img src="images/Г-shape.png" width="400">
 
 #### Cap-Fed 2 Probes + Quadrature Hybrid Coupler
 - **File:** `Round Patch Antenna/roundPatchEps1_capFeedAbove_2024.cst`
 - **Figures:**
-  ![Screenshot](...)
+  <img src="images/2Probes_CapFed.png" width="300"> <img src="images/quadHybridCoupler.png" width="400">
 
 #### Cap-Fed 2 Probes + Circulator and Quadrature Hybrid Coupler
 - **File:** `Round Patch Antenna/roundPatchEps1_2probes_capFeedAbove_2024_circulator.cst`
 - **Figures:**
-  ![Screenshot](...)
+  <img src="images/2Probes_CapFed.png" width="300"> <img src="images/circ+quadHybridCoup.png" width="500">
 
 #### Cap-Fed 4 Probes + Rat-Race
 - **File:** `Round Patch Antenna/roundPatchEps1_4probes_capFeedAbove_2024.cst`
 - **Figures:**
-  ![Screenshot](...)
+  <img src="images/4Probes_CapFed.png" width="300"> <img src="images/ratrace.png" width="400">
 
 #### Cap-Fed 4 Probes + Circulator and Quadrature Hybrid Coupler + Rat-Race
 - **File:** `Round Patch Antenna/roundPatchEps1_4probes_capFeedAbove_2024_circulator+ratRace.cst`
 - **Figures:**
-  ![Screenshot](...)
+  <img src="images/4Probes_CapFed.png" width="300"> <img src="images/circ+quadHybridCoup+ratrace.png" width="500">
 
 #### Cap-Fed 4 Probes + T-shape Coupler CST2025
 - **File:** `Round Patch Antenna/roundPatchEps1_4probes_capFeedAbove_antiphaseCoupling.cst`
 - **Figures:**
-  ![Screenshot](...)
+  <img src="images/4Probes_CapFed.png" width="300"> <img src="images/T-shapeCoupler.png" width="500">
 
 #### Cap-Fed 4 Probes + 2 Quadrature Hybrid Coupler CST2025
 - **File:** `Round Patch Antenna/roundPatchEps1_4probes_capFeedAbove_90hybrid.cst`
 - **Figures:**
-  ![Screenshot](...)
+  <img src="images/4Probes_CapFed.png" width="300"> <img src="images/2QuadratureHybridCouplers.png" width="600">
 
 ---
 
@@ -86,29 +86,29 @@ Designed and simulated by **CST 2024 (mostly) and 2025**
 #### Stacked Cap-Fed bottom_sub RO4350B top_sub RO4830
 - **File:** `Antenna Array/Array_stackedRoundPatch_capFeed_withFence_2024.cst`
 - **Figures:**
-  ![Screenshot](...)
+  <img src="images/stackedPatch_CapFed.png" width="400">
 
 #### Stacked noCap-Fed bottom_sub RO4835T top_sub CuClad233
 - **File:** `Antenna Array/Array_stackedRoundPatch_noCap_withFence_2024.cst`
 - **Figures:**
-  ![Screenshot](...)
+  <img src="images/stackedPatch_noCapFed.png" width="400">
 
 #### Cap-Fed sub RO4350B 3x3 subArray
 - **File:** `Antenna Array/Array_RoundPatchEps366_capFeed_withFence_2024.cst`
 - **Figures:**
-  ![Screenshot](...)
+  <img src="images/3x3subArray.png" width="400">
 
 #### Cap-Fed sub RO4350B 2x1 subArray
 - **File:** `Antenna Array/Array_2x1_RoundPatchEps366_capFeed_withFence_2024.cst`
 - **Figures:**
-  ![Screenshot](...)
+  <img src="images/2x1subArray.png" width="400">
 
-#### Cap-Fed Parallel Contour Matching sub RO4350B
+#### Cap-Fed Parallel Contour Matching + Quadrature Hybrid Coupler sub RO4350B
 - **File:** `Antenna Array/Array_RoundPatchEps366_capFeed_withFence_paralContourMatching_2024.cst`
 - **Figures:**
-  ![Screenshot](...)
+  <img src="images/paralContourMatching.png" width="550">
 
-#### Cap-Fed Chebyshev Filter N2 Matching sub RO4350B
+#### Cap-Fed Chebyshev Filter N2 Matching + Quadrature Hybrid Coupler sub RO4350B
 - **File:** `Antenna Array/Array_RoundPatchEps366_capFeed_withFence_chebyshevMatchingN2_2024.cst`
 - **Figures:**
-  ![Screenshot](...)
+  <img src="images/chebyshevFilterN2Matching.png" width="550">
