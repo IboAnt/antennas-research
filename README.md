@@ -13,7 +13,7 @@ Designed and simulated by **CST 2024 (mostly) and 2025**
 - [Cap-Fed 2 Probes + Quadrature Hybrid Coupler](#cap-fed-2-probes--quadrature-hybrid-coupler)
 - [Cap-Fed 2 Probes + Circulator and Quadrature Hybrid Coupler](#cap-fed-2-probes--circulator-and-quadrature-hybrid-coupler)
 - [Cap-Fed 4 Probes + Rat-Race](#cap-fed-4-probes--rat-race)
-- [Cap-Fed 4 Probes + Circulator and Quadrature Hybrid Coupler + Rat-Race](#cap-fed-4-probes--circulator-and-quadrature-hybrid-coupler-+-rat-race)
+- [Cap-Fed 4 Probes + Circulator and Quadrature Hybrid Coupler + Rat-Race](#cap-fed-4-probes--circulator-and-quadrature-hybrid-coupler--rat-race)
 - [Cap-Fed 4 Probes + T-shape Coupler CST2025](#cap-fed-4-probes--t-shape-coupler-cst2025)
 - [Cap-Fed 4 Probes + 2 Quadrature Hybrid Coupler CST2025](#cap-fed-4-probes--2-quadrature-hybrid-coupler-cst2025)
 
@@ -22,8 +22,8 @@ Designed and simulated by **CST 2024 (mostly) and 2025**
 - [Stacked noCap-Fed bottom_sub RO4835T top_sub CuClad233](#stacked-nocap-fed-bottom_sub-ro4835t-top_sub-cuclad233)
 - [Cap-Fed sub RO4350B 3x3 subArray](#cap-fed-sub-ro4350b-3x3-subarray)
 - [Cap-Fed sub RO4350B 2x1 subArray](#cap-fed-sub-ro4350b-2x1-subarray)
-- [Cap-Fed Parallel Contour Matching + Quadrature Hybrid Coupler sub RO4350B](#cap-fed-parallel-contour-matching--circulator-and-quadrature-hybrid-coupler-sub-ro4350b)
-- [Cap-Fed Chebyshev Filter N2 Matching + Quadrature Hybrid Coupler sub RO4350B](#cap-fed-chebyshev-filter-n2-matching--circulator-and-quadrature-hybrid-coupler-sub-ro4350b)
+- [Cap-Fed Parallel Contour Matching + Quadrature Hybrid Coupler sub RO4350B](#cap-fed-parallel-contour-matching--quadrature-hybrid-coupler-sub-ro4350b)
+- [Cap-Fed Chebyshev Filter N2 Matching + Quadrature Hybrid Coupler sub RO4350B](#cap-fed-chebyshev-filter-n2-matching--quadrature-hybrid-coupler-sub-ro4350b)
   
 ### Useful TS-files
 - [Ideal Circulator](#ideal-circulator)
